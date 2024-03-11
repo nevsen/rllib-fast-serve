@@ -7,7 +7,7 @@ import copy
 import json
 import logging
 import os
-import pickle
+import pickle5 as pickle
 from abc import abstractmethod, ABCMeta
 from typing import Dict, Any, Type, Optional
 
